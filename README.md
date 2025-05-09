@@ -41,6 +41,7 @@ com.example.notes_application
 ## 📸 Screenshots
 
 - <p align="center">
-  <img src="https://github.com/user-attachments/assets/1cef8a1e-f612-4ec6-a598-7921d76c089c" width="22%" style="margin-right: 2%;">
   <img src="https://github.com/user-attachments/assets/23d783f4-236c-46fe-afba-4450409380fc" width="22%" style="margin-right: 2%;">
+  <img src="https://github.com/user-attachments/assets/1cef8a1e-f612-4ec6-a598-7921d76c089c" width="22%" style="margin-right: 2%;">
+  
 </p>
