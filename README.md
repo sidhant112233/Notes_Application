@@ -39,10 +39,6 @@ com.example.notes_application
 
 
 ## 📸 Screenshots
-![Uploading WhatsApp Image 2025-05-09 at 17.06.11_d08bcfba.jpg…]()
-![WhatsApp Image 2025-05-09 at 17 05 11_e2bac080](https://github.com/user-attachments/assets/1cef8a1e-f612-4ec6-a598-7921d76c089c)
-![WhatsApp Image 2025-05-09 at 17 05 11_0c72a62f](https://github.com/user-attachments/assets/23d783f4-236c-46fe-afba-4450409380fc)
-
 
 - <p align="center">
   <img src="https://github.com/user-attachments/assets/1cef8a1e-f612-4ec6-a598-7921d76c089c" width="22%" style="margin-right: 2%;">
